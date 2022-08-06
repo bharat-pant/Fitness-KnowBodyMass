@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fitness-KnowBodyMass</string>
+    <string name="weight_info">Enter your weight</string>
+    <string name="height_info">Enter your height</string>
+    <string name="bmi_description_text">Your BMI appears below</string>
+    <string name="convert_button">Convert</string>
+    <string name="about_activity_title">About This Application</string>
+    <string name="about_activity_description">This is the latest version of application</string>
+    <string name="go_to_about_activity_button">Go to About Activity</string>
+</resources>
